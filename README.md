@@ -52,4 +52,4 @@ The feature selection techniques used are:
 ![image](https://github.com/1808charitha/EXNO-4-DS/assets/132996838/f44462ea-7374-4654-8ff2-6d39cdb497a3)
 ![image](https://github.com/1808charitha/EXNO-4-DS/assets/132996838/801ebc90-3b75-45e6-8ca4-830199104b2d)
 # RESULT:
-    Thus feature scaling and selection is performed.
+Thus feature scaling and selection is performed.
